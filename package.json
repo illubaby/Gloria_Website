@@ -18,7 +18,7 @@
     "elearning": "file:",
     "eslint": "8.40.0",
     "eslint-config-next": "14.2.14",
-    "next": "14.2.14",
+    "next": "^14.2.23",
     "postcss": "8.4.47",
     "react": "18.3.1",
     "react-dom": "18.3.1",

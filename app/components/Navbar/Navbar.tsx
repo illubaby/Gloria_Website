@@ -14,11 +14,11 @@ interface NavigationItem {
 }
 
 const navigation: NavigationItem[] = [
-    { name: 'Home', href: '#/', current: true },
-    { name: 'Courses', href: '#courses', current: false },
-    { name: 'Mentor', href: '#mentor', current: false },
-    { name: 'Group', href: '/', current: false },
-    { name: 'Testimonial', href: '#testimonial', current: false },
+    { name: 'Trang chủ', href: '#/', current: true },
+    { name: 'Giới thiệu', href: '#courses', current: false },
+    { name: 'Xuất khẩu lao động', href: '#mentor', current: false },
+    { name: 'Du học', href: '/', current: false },
+    { name: 'Hoạt động', href: '#testimonial', current: false },
 ];
 
 function classNames(...classes: string[]) {
@@ -51,7 +51,7 @@ const Navbar = () => {
     return (
         <Disclosure as="nav" className="navbar">
             <>
-                <div className="mx-auto max-w-7xl px-6 py-4 lg:px-8">
+                <div className="mx-auto max-w-7xl py-4">
                     <div className="relative flex h-12 md:h-20 items-center justify-between">
                         <div className="flex flex-1 items-center sm:items-stretch sm:justify-start">
 
@@ -72,7 +72,7 @@ const Navbar = () => {
 
                             {/* LINKS */}
 
-                            <div className="hidden lg:block m-auto">
+                            <div className="hidden whitespace-nowrap lg:block m-auto">
                                 <div className="flex space-x-4">
                                     {navigation.map((item) => (
                                         <CustomLink
@@ -94,16 +94,16 @@ const Navbar = () => {
                                 </div>
                             </div>
                         </div>
+                    
+                        <div className="flex items-center space-x-4">
+                            {/* SIGNIN DIALOG */}
+                            <div className="ml-4">
+                                <Signdialog />
+                            </div>
 
-                        {/* SIGNIN DIALOG */}
-
-                        <Signdialog />
-
-
-                        {/* REGISTER DIALOG */}
-
-                        <Registerdialog />
-
+                            {/* REGISTER DIALOG */}
+                            <Registerdialog />
+                        </div>
 
                         {/* DRAWER FOR MOBILE VIEW */}
 
