@@ -6,10 +6,6 @@ First, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
@@ -32,3 +28,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+# About this template
+Initial File and Start Point
+Initial File: The initial file that Next.js looks for is pages/_app.tsx. This file can be used to initialize pages and provide a common layout or context providers.
+Start Point: The pages/index.tsx file is the entry point for the home page. However, in this project, it seems like the page.tsx file is being used as the entry point for the home page.

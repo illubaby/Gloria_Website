@@ -9,9 +9,9 @@ const Newsletter = () => {
 
                     <div className="col-span-12 bg-imagee">
                         <div className="mb-10 mt-24 lg:mx-64 lg:my-24">
-                            <h3 className="text-4xl md:text-55xl text-center font-semibold text-white mb-3">Newsletter.</h3>
+                            <h3 className="text-4xl md:text-55xl text-center font-semibold text-white mb-3">Email.</h3>
                             <h3 className="text-base font-normal opacity-75 text-white text-center mb-8">
-                                Subscrible our newsletter for discounts, <br /> promo and many more.
+                                Đăng ký nhận bản tin của chúng tôi để nhận ưu đãi, <br /> khuyến mãi và nhiều điều thú vị khác.
                             </h3>
 
                             <div>

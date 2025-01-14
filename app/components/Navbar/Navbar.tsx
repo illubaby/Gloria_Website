@@ -14,11 +14,12 @@ interface NavigationItem {
 }
 
 const navigation: NavigationItem[] = [
-    { name: 'Trang chủ', href: '#/', current: true },
-    { name: 'Giới thiệu', href: '#courses', current: false },
-    { name: 'Xuất khẩu lao động', href: '#mentor', current: false },
-    { name: 'Du học', href: '/', current: false },
-    { name: 'Hoạt động', href: '#testimonial', current: false },
+    { name: 'Trang chủ', href: '/', current: true },
+    { name: 'Giới thiệu', href: '#about-us', current: false },
+    { name: 'Người hướng dẫn', href: '#mentor', current: false },
+    { name: 'Thư viện ảnh', href: '#testimonial', current: false },
+    { name: 'Du học', href: '/study-abroad', current: false },
+    { name: 'Thị trường việc làm', href: '/labor-direct', current: false },
 ];
 
 function classNames(...classes: string[]) {
@@ -97,12 +98,10 @@ const Navbar = () => {
                     
                         <div className="flex items-center space-x-4">
                             {/* SIGNIN DIALOG */}
-                            <div className="ml-4">
-                                <Signdialog />
-                            </div>
+                            {/* <Signdialog /> */}
 
                             {/* REGISTER DIALOG */}
-                            <Registerdialog />
+                            {/* <Registerdialog /> */}
                         </div>
 
                         {/* DRAWER FOR MOBILE VIEW */}
@@ -119,6 +118,7 @@ const Navbar = () => {
                             <Drawerdata />
                         </Drawer>
 
+                        
 
                     </div>
                 </div>
