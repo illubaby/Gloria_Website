@@ -10,50 +10,52 @@ export default function StudyAbroad() {
       <h1 className="text-midnightblue text-4xl sm:text-5xl font-semibold text-center lg:text-start lh-120 pt-5 lg:pt-0">
         Các chương trình du học nổi bật
       </h1>
-      <div className="mt-8 space-y-8">
-        <section>
-          <CountryCard
-            title="Đức"
-            imageSrc="/assets/labor-direct/germany.jpg"
-            imageAlt="Đức"
-            description="Chương trình học nghề tại Đức là một cơ hội hấp dẫn với nhiều ngành nghề đa dạng, môi trường làm việc hiện đại, và chế độ đãi ngộ tốt."
-            link="/study-abroad/germany"
-          />
-        </section>
-        <section>
+      
+      {/* Updated div: turn into a grid with 3 columns on large screens */}
+      <div className="mt-8 grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
+        <section className="mx-auto">
           <CountryCard
             title="Hàn Quốc"
-            imageSrc="/assets/labor-direct/korea.jpg"
+            imageSrc="/assets/country/korea.jpg"
             imageAlt="Hàn Quốc"
-            description="Là một trong những nền kinh tế phát triển nhanh nhất Châu Á, Hàn Quốc mang đến môi trường làm việc chuyên nghiệp và nhiều cơ hội nâng cao kỹ năng."
+            description="Hàn Quốc nổi tiếng với nền giáo dục chất lượng cao, môi trường học tập hiện đại, cùng nhiều học bổng hấp dẫn dành cho sinh viên quốc tế."
             link="/study-abroad/korea"
           />
         </section>
-        <section>
+        <section className="mx-auto">
           <CountryCard
-            title="Nhật Bản"
-            imageSrc="/assets/labor-direct/japan.jpg"
-            imageAlt="Nhật Bản"
-            description="Với công nghệ tiên tiến và kỷ luật nghiêm ngặt, Nhật Bản giúp bạn rèn luyện tay nghề, trau dồi kiến thức và tích lũy kinh nghiệm quý báu."
-            link="/study-abroad/japan"
+            title="Úc"
+            imageSrc="/assets/country/australia.jpg"
+            imageAlt="Úc"
+            description="Úc mang đến cơ hội học tập tại các trường đại học hàng đầu thế giới, môi trường sống lý tưởng và cơ hội làm việc sau khi tốt nghiệp."
+            link="/study-abroad/australia"
           />
         </section>
-        <section>
+        <section className="mx-auto">
           <CountryCard
             title="Đài Loan"
-            imageSrc="/assets/labor-direct/taiwan.jpg"
+            imageSrc="/assets/country/taiwan.jpg"
             imageAlt="Đài Loan"
-            description="Đài Loan mang đến môi trường làm việc năng động, đa văn hóa và nhiều cơ hội thăng tiến trong lĩnh vực công nghệ, sản xuất."
-            link="/labor-direct/taiwan"
+            description="Đài Loan là điểm đến hấp dẫn cho các chương trình học tập, với chi phí hợp lý, công nghệ phát triển, và nền giáo dục tiên tiến."
+            link="/study-abroad/taiwan"
           />
         </section>
-        <section>
+        <section className="mx-auto">
           <CountryCard
-            title="Singapore"
-            imageSrc="/assets/labor-direct/singapore.jpg"
-            imageAlt="Singapore"
-            description="Là trung tâm tài chính khu vực, Singapore tạo điều kiện tốt cho người lao động với mức lương hấp dẫn và cơ hội phát triển nghề nghiệp."
-            link="/labor-direct/singapore"
+            title="Đan Mạch"
+            imageSrc="/assets/country/denmark.jpg"
+            imageAlt="Đan Mạch"
+            description="Đan Mạch cung cấp nền giáo dục miễn phí hoặc chi phí thấp cho sinh viên quốc tế, cùng với môi trường sống chất lượng và an toàn."
+            link="/study-abroad/denmark"
+          />
+        </section>
+        <section className="mx-auto">
+          <CountryCard
+            title="Phần Lan"
+            imageSrc="/assets/country/finland.jpg"
+            imageAlt="Phần Lan"
+            description="Phần Lan là quốc gia nổi tiếng với hệ thống giáo dục tiên tiến, môi trường thân thiện và cơ hội học tập nghiên cứu sáng tạo."
+            link="/study-abroad/finland"
           />
         </section>
       </div>
