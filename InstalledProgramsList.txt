@@ -1,0 +1,276 @@
+
+DisplayName                                                                   DisplayVersion  Publisher                            InstallDate
+-----------                                                                   --------------  ---------                            -----------
+Visual Studio Community 2022                                                  17.12.3         Microsoft Corporation                20230316
+                                                                                                                                   
+ASIO4ALL                                                                      2.16            tippach engineering                  
+Battle for Wesnoth 1.14.9                                                     1.14.9                                               
+Belarc Advisor 12.1                                                           12.1.0.0        Belarc, Inc.                         
+Camel Audio CamelCrusher64                                                    1.01.0          Camel Audio                          
+Camel Audio CamelPhat64                                                       3.50.0          Camel Audio                          
+Null-modem emulator (com0com)                                                 3.0.0.0         Vyacheslav Frolov                    
+                                                                                                                                   
+Driver Booster 12                                                             12.2.0          IObit                                20250111
+Visual Studio Build Tools 2019                                                16.11.42        Microsoft Corporation                20250111
+FL Studio ASIO                                                                                Image-Line                           
+Google Chrome                                                                 132.0.6834.83   Google LLC                           20250115
+HW Virtual Serial Port 3.1.2 Single                                           3.1.2           HW group                             20240222
+iTop Data Recovery                                                            5.0.0.798       iTop Inc.                            20250111
+Microsoft Edge                                                                131.0.2903.146  Microsoft Corporation                20250112
+                                                                              1.3.195.43                                           
+Microsoft Edge WebView2 Runtime                                               132.0.2957.115  Microsoft Corporation                20250118
+Native Instruments Creator Tools                                              1.5.1.0         Native Instruments                   
+Native Instruments Guitar Rig 6                                               6.4.0.0         Native Instruments                   
+Native Instruments Guitar Rig 7                                               7.0.2.0         Native Instruments                   
+Native Instruments Kontakt                                                    6.8.0.0         Native Instruments                   
+Native Instruments Kontakt 7                                                  7.10.1.0        Native Instruments                   
+Native Instruments Kontakt Factory Library 2                                  1.0.4.1         Native Instruments                   
+Native Instruments Massive                                                    1.5.11.0        Native Instruments                   
+Native Instruments NTKDaemon                                                  1.17.2.0        Native Instruments                   
+Native Instruments Scarbee Rickenbacker Bass                                  1.3.0.3         Native Instruments                   
+Ninjutso Sora                                                                                 Ninjutso                             
+Nektar DP1 Drum Player 1.0.4                                                  1.0.4           Nektar Technology Inc.               20230107
+Npcap                                                                         1.71            Nmap Project                         
+OBS Studio                                                                    31.0.0          OBS Project                          
+OpenAL                                                                                                                             
+Proteus 8 Professional                                                        8.10.29203.0    Labcenter Electronics                20231129
+qBittorrent                                                                   5.0.2           The qBittorrent project              
+Rainmeter                                                                     4.5.20          Rainmeter                            202412Saturday
+RStudio                                                                       2024.12.0+467   Posit Software                       
+Steam                                                                         2.10.91.91      Valve Corporation                    
+                                                                                                                                   
+WinHTTrack Website Copier 3.49-2                                              3.49.2          HTTrack                              20241109
+WinPcap 4.1.3                                                                 4.1.0.2980      Riverbed Technology, Inc.            
+Wise Folder Hider                                                             4.4.3           WiseCleaner.com, Inc.                20221205
+Wise Registry Cleaner                                                         11.1.8          Lespeed Technology Co., Ltd.         20241215
+Intel(R) Wireless Bluetooth(R)                                                23.100.1.1      Intel Corporation                    20241223
+GameSDK Service                                                               1.0.5.0         ASUSTek COMPUTER INC.                
+Windows SDK Desktop Tools x86                                                 10.1.22000.832  Microsoft Corporation                20230317
+vs_clickoncesigntoolmsi                                                       17.12.35410     Microsoft Corporation                20241211
+AOMEI Partition Assistant 10.6.0                                              10.6.0          AOMEI International Network Limited. 20241208
+vs_filehandler_x86                                                            17.12.35410     Microsoft Corporation                20241211
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664                  12.0.40664.0    Microsoft Corporation                
+Universal CRT Redistributable                                                 10.0.26624      Microsoft Corporation                20250111
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501                  12.0.30501.0    Microsoft Corporation                
+Microsoft Windows Desktop Runtime - 6.0.36 (x64)                              6.0.36.34217    Microsoft Corporation                
+Microsoft .NET Host - 9.0.0 (x86)                                             72.0.23369      Microsoft Corporation                20241211
+Samsung DeX                                                                   2.4.1.27        Samsung Electronics Co., Ltd.        20241207
+WinRT Intellisense Mobile - en-us                                             10.1.22000.832  Microsoft Corporation                20230317
+Windows SDK Signing Tools                                                     10.1.22000.832  Microsoft Corporation                20230317
+Windows Team Extension SDK                                                    10.1.22000.832  Microsoft Corporation                20230317
+Windows SDK AddOn                                                             10.1.0.0        Microsoft Corporation                20230317
+Microsoft Windows Desktop Targeting Pack - 7.0.20 (x86)                       56.80.15245     Microsoft Corporation                20241211
+Samsung DeX                                                                   2.4.1.27        Samsung Electronics Co., Ltd.        
+Microsoft .NET Framework 4.7.2 Targeting Pack                                 4.7.03062       Microsoft Corporation                20230316
+ASUS MB Peripheral Products                                                   1.0.35          ASUSTeK Computer Inc.                
+Avast Update Helper                                                           1.8.1697.6      AVAST Software                       20241201
+Windows SDK Desktop Libs x64                                                  10.1.22000.832  Microsoft Corporation                20230317
+Microsoft .NET Framework Cumulative Intellisense Pack for Visual Studio (ENU) 4.8.09037       Microsoft Corporation                20230316
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+AURA lighting effect add-on                                                   0.0.44          ASUSTek COMPUTER INC.                20240714
+Microsoft GameInput                                                           10.1.22621.3036 Microsoft Corporation                20230403
+Windows IoT Extension SDK Contracts                                           10.1.22000.832  Microsoft Corporation                20230317
+Microsoft Bing Service                                                        2.0.0.11        Microsoft Corporation                20241030
+vs_CoreEditorFonts                                                            17.5.33306      Microsoft Corporation                20230316
+                                                                                                                                   
+Microsoft ASP.NET Core 8.0.11 Shared Framework (x86)                          8.0.11.24521    Microsoft Corporation                20241211
+Microsoft ASP.NET Core 7.0.20 Shared Framework (x86)                          7.0.20.24269    Microsoft Corporation                20241211
+Samsung Magician                                                              8.1.0.800       Samsung Electronics                  20240326
+ASUS AURA Headset Component                                                   1.3.40.0        ASUSTek COMPUTER INC.                
+Microsoft ASP.NET Core 8.0.11 Targeting Pack (x86)                            8.0.11.24521    Microsoft Corporation                20241211
+Intel® Software Installer                                                     23.100.0.4      Intel Corporation                    
+Microsoft .NET Framework 4.6 Targeting Pack                                   4.6.00081       Microsoft Corporation                20230316
+Windows SDK                                                                   10.1.22000.832  Microsoft Corporation                20230317
+Windows SDK Desktop Headers arm64                                             10.1.22000.832  Microsoft Corporation                20230317
+Windows SDK for Windows Store Apps DirectX x86 Remote                         10.1.22000.832  Microsoft Corporation                20230317
+Windows SDK Facade Windows WinMD Versioned                                    10.1.22000.832  Microsoft Corporation                20230317
+ASUS Framework Service                                                        4.2.0.4         ASUSTeK Computer Inc.                20241219
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030                  11.0.61030.0    Microsoft Corporation                
+Microsoft .NET SDK 7.0.410 (x64)                                              7.4.1024.27207  Microsoft Corporation                
+vs_devenvsharedmsi                                                            17.12.35410     Microsoft Corporation                20241211
+WebAdvisor by McAfee                                                          4.1.1.999       McAfee, LLC                          
+Microsoft Windows Desktop Runtime - 7.0.20 (x64)                              7.0.20.33720    Microsoft Corporation                
+Microsoft .NET Targeting Pack - 6.0.36 (x86)                                  48.144.23141    Microsoft Corporation                20241211
+Microsoft Windows Desktop Runtime - 8.0.11 (x86)                              64.44.23253     Microsoft Corporation                20241211
+WinRT Intellisense IoT - Other Languages                                      10.1.22000.832  Microsoft Corporation                20230317
+Samsung Data Migration                                                        4.0.0.19        Samsung                              20230522
+Windows Desktop Extension SDK                                                 10.1.22000.832  Microsoft Corporation                20230317
+DriverIdentifier 6.1                                                                          DriverIdentifier                     20241120
+WinRT Intellisense UAP - en-us                                                10.1.22000.832  Microsoft Corporation                20230317
+SDK ARM Redistributables                                                      10.1.22000.832  Microsoft Corporation                20230317
+Launcher Prerequisites (x64)                                                  1.0.0.0         Epic Games, Inc.                     
+ASUS Mouse Extern HAL                                                         1.2.0.3         ASUSTek COMPUTER INC.                
+vs_Graphics_Singletonx86                                                      17.12.35410     Microsoft Corporation                20241211
+                                                                                                                                   
+Microsoft Visual Studio Setup WMI Provider                                    3.12.2140.44225 Microsoft Corporation                20241211
+Java Auto Updater                                                             2.8.431.10      Oracle Corporation                   20241204
+Lofi Keys 2 version 2.1                                                       2.1             Clark Pro Audio, LLC                 20231230
+Microsoft .NET Runtime - 7.0.20 (x86)                                         56.80.15184     Microsoft Corporation                20241211
+Epic Online Services                                                          2.8.1           Epic Games, Inc.                     20241215
+FlashLoader Demonstrator 2.8.0                                                2.8.0           STMicroelectronics                   20240402
+Microsoft .NET Targeting Pack - 7.0.20 (x86)                                  56.80.15184     Microsoft Corporation                20241211
+Windows SDK Desktop Tools arm64                                               10.1.22000.832  Microsoft Corporation                20230317
+                                                                                                                                   
+AURA Service                                                                  3.07.54         ASUSTeK Computer Inc.                20241208
+icecap_collectionresources                                                    17.12.35410     Microsoft Corporation                20241211
+AURA Service                                                                  3.07.54         ASUSTeK Computer Inc.                
+Windows IoT Extension SDK                                                     10.1.22000.832  Microsoft Corporation                20230317
+Microsoft Visual C++ 2022 X86 Debug Runtime - 14.42.34433                     14.42.34433     Microsoft Corporation                20241211
+Windows Team Extension SDK Contracts                                          10.1.22000.832  Microsoft Corporation                20230317
+Microsoft ASP.NET Core 6.0.36 Shared Framework (x86)                          6.0.36.24516    Microsoft Corporation                20241211
+PL23XX USB-to-Serial                                                          4.0.8           Prolific Technology INC              20240402
+Windows SDK Desktop Libs arm                                                  10.1.22000.832  Microsoft Corporation                20230317
+Microsoft .NET Targeting Pack - 8.0.11 (x86)                                  64.44.23191     Microsoft Corporation                20241211
+                                                                                                                                   
+                                                                                                                                   
+Windows SDK for Windows Store Apps Tools                                      10.1.22000.832  Microsoft Corporation                20230317
+Microsoft ASP.NET Core 7.0.20 - Shared Framework (x64)                        7.0.20.24269    Microsoft Corporation                
+ASUS Mouse HAL                                                                1.2.0.33        ASUSTek COMPUTER INC.                
+Tailscale                                                                     1.78.1          Tailscale Inc.                       
+                                                                              1.00.0000       ASUSTek Computer Inc.                20241219
+Windows SDK Desktop Headers x86                                               10.1.22000.832  Microsoft Corporation                20230317
+Java 8 Update 431                                                             8.0.4310.10     Oracle Corporation                   20241204
+Python Launcher                                                               3.13.1150.0     Python Software Foundation           20241211
+Microsoft Visual C++ 2005 Redistributable                                     8.0.61001       Microsoft Corporation                20240128
+GameSDK Service                                                               1.0.5.0         ASUSTek COMPUTER INC.                20221205
+vs_FileTracker_Singleton                                                      17.12.35410     Microsoft Corporation                20241211
+Windows SDK for Windows Store Apps Metadata                                   10.1.22000.832  Microsoft Corporation                20230317
+Windows SDK Desktop Libs x86                                                  10.1.22000.832  Microsoft Corporation                20230317
+Windows SDK Redistributables                                                  10.1.22000.832  Microsoft Corporation                20230317
+Microsoft .NET Targeting Pack - 9.0.0 (x86)                                   72.0.23369      Microsoft Corporation                20241211
+ASUS Keyboard HAL                                                             1.1.79.0        ASUSTek COMPUTER INC.                
+Microsoft TestPlatform SDK Local Feed                                         17.10.0.9037153 Microsoft                            20241211
+Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.42.34433            14.42.34433.0   Microsoft Corporation                
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664                    12.0.40664      Microsoft Corporation                20241204
+Windows App Certification Kit SupportedApiList x86                            10.1.22000.832  Microsoft Corporation                20230317
+WinRT Intellisense IoT - en-us                                                10.1.22000.832  Microsoft Corporation                20230317
+Windows SDK Desktop Libs arm64                                                10.1.22000.832  Microsoft Corporation                20230317
+Microsoft ASP.NET Core 9.0.0 Shared Framework (x86)                           9.0.0.24529     Microsoft Corporation                20241211
+WinRT Intellisense Desktop - Other Languages                                  10.1.22000.832  Microsoft Corporation                20230317
+vs_BlendMsi                                                                   17.12.35410     Microsoft Corporation                20241211
+Microsoft Visual C++ 2022 X86 Additional Runtime - 14.42.34433                14.42.34433     Microsoft Corporation                20241210
+Microsoft ASP.NET Core 7.0.20 Targeting Pack (x86)                            7.0.20.24269    Microsoft Corporation                20241211
+ValhallaVintageVerb version 1.5.0                                             1.5.0           Valhalla DSP, LLC                    20230709
+ASUS Smart Display Control                                                    2.10.0          ASUSTek COMPUTER INC.                20240903
+UniGetUI                                                                      3.1.5           Martí Climent                        20241221
+Microsoft .NET Runtime - 6.0.36 (x86)                                         48.144.23141    Microsoft Corporation                20241211
+WinAppDeploy                                                                  10.1.22000.832  Microsoft Corporation                20230317
+Universal CRT Redistributable                                                 10.1.22000.832  Microsoft Corporation                20230317
+Windows Mobile Extension SDK Contracts                                        10.1.22000.832  Microsoft Corporation                20230317
+WashAndGo                                                                     28.03           Abelssoft                            20241215
+Universal CRT Extension SDK                                                   10.1.22000.832  Microsoft Corporation                20230317
+                                                                                                                                   
+Windows SDK EULA                                                              10.1.22000.832  Microsoft Corporations               20230317
+Microsoft .NET Framework 4.8 SDK                                              4.8.03928       Microsoft Corporation                20230316
+                                                                                                                                   
+MSI Development Tools                                                         10.1.22000.832  Microsoft Corporation                20230317
+Microsoft Windows Desktop Targeting Pack - 6.0.36 (x86)                       48.144.23186    Microsoft Corporation                20241211
+Universal CRT Headers Libraries and Sources                                   10.1.22000.832  Microsoft Corporation                20230317
+Microsoft Windows Desktop Runtime - 6.0.36 (x86)                              48.144.23186    Microsoft Corporation                20241211
+Microsoft .NET Runtime - 9.0.0 (x86)                                          72.0.23369      Microsoft Corporation                20241211
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161                9.0.30729.6161  Microsoft Corporation                20230801
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664                  12.0.40664.0    Microsoft Corporation                
+Microsoft .NET Runtime - 8.0.11 (x86)                                         64.44.23191     Microsoft Corporation                20241211
+WinRT Intellisense PPI - Other Languages                                      10.1.22000.832  Microsoft Corporation                20230317
+Microsoft .NET SDK 8.0.405 (x64)                                              8.4.524.60408   Microsoft Corporation                
+Windows SDK for Windows Store Apps Headers                                    10.1.22000.832  Microsoft Corporation                20230317
+Microsoft .NET Framework 4.8 Targeting Pack (ENU)                             4.8.03761       Microsoft Corporation                20230428
+LenovoDisplayControlCenterService                                             3.0.17231       Lenovo                               20230909
+MobaXterm                                                                     24.4.0.5258     Mobatek                              20241211
+Universal CRT Tools x86                                                       10.1.22000.832  Microsoft Corporation                20230317
+ASUS Update Helper                                                            1.3.107.129     ASUSTeK Computer Inc.                20241226
+Windows SDK ARM Desktop Tools                                                 10.1.22000.832  Microsoft Corporation                20230317
+Microsoft Windows Desktop Runtime - 8.0.12 (x64)                              8.0.12.34404    Microsoft Corporation                
+vs_clickoncebootstrappermsires                                                17.12.35410     Microsoft Corporation                20241211
+AI Noise Cancelation Audio Software                                           3.0.5           ASUSTek Computer Inc.                
+                                                                                                                                   
+Spitfire Audio version 3.4.10                                                 3.4.10          Spitfire Audio Holdings Ltd          20231223
+Windows SDK for Windows Store Apps Contracts                                  10.1.22000.832  Microsoft Corporation                20230317
+Windows SDK for Windows Store Managed Apps Libs                               10.1.22000.832  Microsoft Corporation                20230317
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030                 11.0.61030      Microsoft Corporation                20230806
+vs_communitysharedmsi                                                         17.12.35410     Microsoft Corporation                20241211
+vs_tipsmsi                                                                    17.12.35410     Microsoft Corporation                20241211
+vs_minshellsharedmsi                                                          17.12.35410     Microsoft Corporation                20241211
+Microsoft .NET Framework 4.7.2 Targeting Pack (ENU)                           4.7.03062       Microsoft Corporation                20230316
+vs_clickoncebootstrappermsi                                                   17.12.35410     Microsoft Corporation                20241211
+vs_vswebprotocolselectormsi                                                   17.12.35410     Microsoft Corporation                20241211
+Windows SDK DirectX x86 Remote                                                10.1.22000.832  Microsoft Corporation                20230317
+Microsoft .NET Framework 4.8 Targeting Pack                                   4.8.03761       Microsoft Corporation                20230428
+SDK ARM Additions                                                             10.1.22000.832  Microsoft Corporation                20230317
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030                    11.0.61030      Microsoft Corporation                20230806
+ClickOnce Bootstrapper Package for Microsoft .NET Framework                   4.8.09256       Microsoft Corporation                20241211
+VS Immersive Activate Helper                                                  17.0.157.0      Microsoft Corporation                20241211
+Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.42.34433                   14.42.34433     Microsoft Corporation                20241210
+ASUS Aac_GmAcc HAL                                                            1.0.12.0        ASUSTek COMPUTER INC.                
+Microsoft .NET Host FX Resolver - 9.0.0 (x86)                                 72.0.23369      Microsoft Corporation                20241211
+Windows SDK Desktop Headers x64                                               10.1.22000.832  Microsoft Corporation                20230317
+Epic Games Launcher                                                           1.3.128.0       Epic Games, Inc.                     20241215
+Windows SDK Desktop Headers arm                                               10.1.22000.832  Microsoft Corporation                20230317
+IntelliTraceProfilerProxy                                                     15.0.21225.01   Microsoft Corporation                20230316
+Windows SDK for Windows Store Apps Libs                                       10.1.22000.832  Microsoft Corporation                20230317
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030                  11.0.61030.0    Microsoft Corporation                
+PowerShell 7.4.6.0-x64                                                        7.4.6.0         Microsoft Corporation                
+Microsoft Windows Desktop Targeting Pack - 9.0.0 (x86)                        72.0.23378      Microsoft Corporation                20241211
+ASUS Aac_NBDT HAL                                                             2.5.12.0        ASUSTek COMPUTER INC.                
+Arc                                                                           2.0.18815       Gearbox Publishing                   20240126
+Kits Configuration Installer                                                  10.1.22000.832  Microsoft                            20230317
+Windows SDK for Windows Store Apps                                            10.1.22000.832  Microsoft Corporation                20230317
+Microsoft Visual Studio Setup Configuration                                   3.12.2140.44225 Microsoft Corporation                20241211
+vcpp_crt.redist.clickonce                                                     14.42.34433     Microsoft Corporation                20241211
+Microsoft Windows Desktop Runtime - 7.0.20 (x86)                              56.80.15245     Microsoft Corporation                20241211
+WinRT Intellisense UAP - Other Languages                                      10.1.22000.832  Microsoft Corporation                20230317
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664                 12.0.40664      Microsoft Corporation                20241204
+                                                                                                                                   
+Windows Desktop Extension SDK Contracts                                       10.1.22000.832  Microsoft Corporation                20230317
+Universal General MIDI DLS Extension SDK                                      10.1.22000.832  Microsoft Corporation                20230317
+fx-CG50 Series OS Update                                                      3.80.0010       CASIO COMPUTER CO., LTD.             20230511
+Microsoft XNA Framework Redistributable 4.0 Refresh                           4.0.30901.0     Microsoft Corporation                20241204
+Windows Software Development Kit - Windows 10.0.22000.832                     10.1.22000.832  Microsoft Corporation                
+vs_githubprotocolhandlermsi                                                   17.12.35410     Microsoft Corporation                20241211
+Microsoft Windows Desktop Runtime - 8.0.10 (x64)                              8.0.10.34118    Microsoft Corporation                
+vs_communitymsires                                                            17.12.35410     Microsoft Corporation                20241211
+ASUS AURA Display Component                                                   1.2.20.0        ASUSTek COMPUTER INC.                
+Ample Guitar TC version 3.6.0                                                 3.6.0           Ample Sound Technology Co., Ltd.     20221227
+icecap_collection_neutral                                                     17.12.35410     Microsoft Corporation                20241211
+Windows Mobile Extension SDK                                                  10.1.22000.832  Microsoft Corporation                20230317
+UltraViewer phiên bản 6.6.96                                                  6.6.96          DucFabulous                          20240916
+Intel Driver && Support Assistant                                             24.6.49.8       Intel                                20241202
+Foxit PDF Editor                                                                              Foxit Software Inc.                  20221205
+Windows SDK Desktop Tools x64                                                 10.1.22000.832  Microsoft Corporation                20230317
+Intel® Driver & Support Assistant                                             24.6.49.8       Intel                                20241202
+vs_SQLClickOnceBootstrappermsi                                                17.12.35410     Microsoft Corporation                20241211
+Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.42.34433            14.42.34433.0   Microsoft Corporation                
+Microsoft ASP.NET Core 9.0.0 Targeting Pack (x86)                             9.0.0.24529     Microsoft Corporation                20241211
+Microsoft Windows Desktop Runtime - 9.0.0 (x86)                               72.0.23378      Microsoft Corporation                20241211
+Windows SDK Modern Versioned Developer Tools                                  10.1.22000.832  Microsoft Corporation                20230317
+PL-2303 USB-to-Serial                                                         1.12.0          Prolific Technology INC              20240416
+vs_minshellmsires                                                             17.12.35410     Microsoft Corporation                20241211
+Microsoft .NET SDK 8.0.112 (x64)                                              8.1.1224.60410  Microsoft Corporation                
+Entity Framework 6.2.0 Tools  for Visual Studio 2022                          6.2.0.0         Microsoft Corporation                20241211
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219                   10.0.40219      Microsoft Corporation                20230709
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+vs_filehandler_amd64                                                          17.12.35410     Microsoft Corporation                20241211
+vs_minshellinteropsharedmsi                                                   17.12.35410     Microsoft Corporation                20241211
+STMicroelectronics stlink-server                                              2.0.2-3         STMicroelectronics                   20230907
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501                  12.0.30501.0    Microsoft Corporation                
+Microsoft Windows Desktop Targeting Pack - 8.0.11 (x86)                       64.44.23253     Microsoft Corporation                20241211
+icecap_collectionresourcesx64                                                 17.12.35410     Microsoft Corporation                20241211
+Windows SDK Modern Non-Versioned Developer Tools                              10.1.22000.832  Microsoft Corporation                20230317
+WinRT Intellisense Desktop - en-us                                            10.1.22000.832  Microsoft Corporation                20230317
+Aura Wallpaper HTML                                                           1.7.3.0         ASUSTek Computer Inc.                
+Windows App Certification Kit x64                                             10.1.22000.832  Microsoft Corporation                20230317
+Microsoft ASP.NET Core 6.0.36 Targeting Pack (x86)                            6.0.36.24516    Microsoft Corporation                20241211
+WinRT Intellisense PPI - en-us                                                10.1.22000.832  Microsoft Corporation                20230317
+
